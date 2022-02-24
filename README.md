@@ -1,4 +1,4 @@
-# opportunities
+# OPPORTUNITIES
 
 <table>
   <tr>
