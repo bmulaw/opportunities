@@ -15,5 +15,11 @@
     <th> https://join-odyssey.com/spring-career-day-students?refer=2newsletter </th>
   <tr>
    
+   <tr>
+    <th> Apprenticeship </th>
+    <th> Feburary 28 </th>
+    <th> Paid 6 months, for non-CS degree and no prior experience </th>
+    <th> https://careers.airbnb.com/positions/3796493/ </th>
+  <tr>
   
  <table>
