@@ -12,7 +12,7 @@
     <th> Career Fair </th>
     <th> March 10 </th>
     <th> M1 Finance, TD, Bain, etc will be there. Meant for undergrads/grads/recent grads </th>
-    <th> (link)[https://join-odyssey.com/spring-career-day-students?refer=2newsletter] </th>
+    <th> [link](https://join-odyssey.com/spring-career-day-students?refer=2newsletter) </th>
   <tr>
    
   <tr>
