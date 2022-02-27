@@ -29,7 +29,7 @@
     <th> <a href="https://careers.tiktok.com/position/7002794399815420174/detail?spread=FYKJVKH" target="_blank" > Link </a> </th>
   </tr>
     
-    <tr>
+  <tr>
     <th> Free Online Course </th>
     <th> N/A </th>
     <th> The Self Learners Path Guide to Programming  </th>
