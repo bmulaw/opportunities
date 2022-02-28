@@ -23,9 +23,9 @@
   </tr>
     
   <tr>
-    <th> Internship </th>
+    <th> Job/Internship </th>
     <th> N/A </th>
-    <th> Software Engineering Internship @ TikTok with a Recruiter's referral </th>
+    <th> New Grad Software Engineering @ TikTok with a Recruiter's referral </th>
     <th> <a href="https://careers.tiktok.com/position/7002794399815420174/detail?spread=FYKJVKH" target="_blank" > Link </a> </th>
   </tr>
     
