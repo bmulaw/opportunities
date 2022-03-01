@@ -89,7 +89,7 @@
     <th> Free 4-6 Month BootCamp <th>
     <th> Cohort starts in March, join the mailing list now for application </th>
     <th> Reskill America </th>
-    <th> <a href="https://reskillamericans.org/" target="_blank > Link </a> </th>
+    <th> <a href="https://reskillamericans.org/" target="_blank" > Link </a> </th>
   </tr>
   
  </table>
