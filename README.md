@@ -99,4 +99,12 @@
     <th> <a href="https://mentorcolor.org/" target="_blank" > Link </a> </th>
   </tr>
   
+  
+  <tr>
+    <th> Apprenticeship </th>
+    <th> UX paid apprenticeship </th>
+    <th> Constructive.co </th>
+    <th> <a href="https://constructive.co/news-events/sales-marketing-manager-job-nonprofit-design-firm" target="_blank" > Link </a> </th>
+  </tr>  
+  
  </table>
