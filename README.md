@@ -107,4 +107,13 @@
     <th> <a href="https://constructive.co/news-events/sales-marketing-manager-job-nonprofit-design-firm" target="_blank" > Link </a> </th>
   </tr>  
   
+  <tr>
+    <th> YouTube Tutorial </th>
+    <th> Playlist of video tutorial on Python.  </th>
+    <th> BroCode </th>
+    <th> <a href="https://www.youtube.com/watch?v=6VElWbND-zg&list=PLZPZq0r_RZOOkUQbat8LyQii36cJf2SWT&ab_channel=BroCode" target="_blank" > Link </a> </th>
+  </tr>  
+  
+  
+  
  </table>
