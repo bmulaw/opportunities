@@ -14,13 +14,6 @@
     <th> M1 Finance, TD, Bain, etc will be there. Meant for undergrads/grads/recent grads </th>
     <th> <a href="https://join-odyssey.com/spring-career-day-students?refer=2newsletter" target="_blank" > Link </a> </th>
   </tr>
-   
-  <tr>
-    <th> Apprenticeship </th>
-    <th> Feburary 28 </th>
-    <th> Paid 6 months, for non-CS degree and no prior experience </th>
-    <th> <a href="https://careers.airbnb.com/positions/3796493/" target="_blank" > Link </a> </th>
-  </tr>
     
   <tr>
     <th> Job/Internship </th>
@@ -109,8 +102,8 @@
   
   <tr>
     <th> YouTube Tutorial </th>
-    <th> Playlist of video tutorial on Python.  </th>
-    <th> BroCode </th>
+    <th> N/A </th>
+    <th> Playlist of video tutorial on Python by BroCode </th>
     <th> <a href="https://www.youtube.com/watch?v=6VElWbND-zg&list=PLZPZq0r_RZOOkUQbat8LyQii36cJf2SWT&ab_channel=BroCode" target="_blank" > Link </a> </th>
   </tr>  
   
