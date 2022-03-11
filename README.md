@@ -80,14 +80,6 @@
   </tr>
   
   <tr>
-    <th> Mentorship </th>
-    <th> Place to find mentors. </th>
-    <th> MentorShip </th>
-    <th> <a href="https://mentorcolor.org/" target="_blank" > Link </a> </th>
-  </tr>
-  
-  
-  <tr>
     <th> Apprenticeship </th>
     <th> UX paid apprenticeship </th>
     <th> Constructive.co </th>
